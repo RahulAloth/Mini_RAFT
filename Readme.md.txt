@@ -1,5 +1,3 @@
-# Mini_RAFT
-
 ## 📘 Project Description
 
 The idea for this project came from a practical engineering challenge during the development of my **Robosense sensor fusion system**.  
