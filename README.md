@@ -14,10 +14,21 @@ Purchasing a LiDAR (especially a Robosense unit) during early development was no
 This project is the result of that idea.
 
 ---
-### Sample Stereo Right Image (Scene Flow)
 
-<img src="/data/data_scene_flow/testing/image_3/000000_10.png" width="450">
+## 🎯 Input vs Output (Mini-RAFT)
 
+<table>
+  <tr>
+    <td align="center"><b>Input Image</b></td>
+    <td align="center"><b>Model Output</b></td>
+  </tr>
+  <tr>
+    <td><img src="/data/data_scene_flow/testing/image_3/000000_10.png" width="420"></td>
+    <td><img src="/data/data_scene_flow/output.png" width="420"></td>
+  </tr>
+</table>
+
+---
 
 ## 🔄 Integration With RoboSense Fusion Project
 
