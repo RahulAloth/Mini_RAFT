@@ -1,4 +1,8 @@
 # Mini_RAFT
+![Stars](https://img.shields.io/github/stars/RahulAloth/Mini_RAFT?style=flat-square)
+![Forks](https://img.shields.io/github/forks/RahulAloth/Mini_RAFT?style=flat-square)
+![License](https://img.shields.io/github/license/RahulAloth/Mini_RAFT?style=flat-square)
+![Issues](https://img.shields.io/github/issues/RahulAloth/Mini_RAFT?style=flat-square)
 
 ## 📘 Project Description
 
