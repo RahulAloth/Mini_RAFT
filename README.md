@@ -140,10 +140,10 @@ This allows a stereo camera to act as a **virtual LiDAR**, enabling fusion devel
 
 This project demonstrates that:
 
-- You can simulate LiDAR‑like depth using stereo + CNN  
-- You can train a RAFT‑style model on CPU  
-- You can deploy a compact stereo network on Jetson  
-- You can build a multi‑sensor fusion environment without buying expensive sensors  
+- We can simulate LiDAR‑like depth using stereo + CNN  
+- We can train a RAFT‑style model on CPU  
+- We can deploy a compact stereo network on Jetson  
+- We can build a multi‑sensor fusion environment without buying expensive sensors  
 
 It is a practical, cost‑effective solution for robotics, AV research, and sensor fusion prototyping.
 
