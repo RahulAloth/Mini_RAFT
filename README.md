@@ -14,6 +14,11 @@ Purchasing a LiDAR (especially a Robosense unit) during early development was no
 This project is the result of that idea.
 
 ---
+### Sample Stereo Right Image (Scene Flow)
+
+<img src="/data/data_scene_flow/testing/image_3/000000_10.png" width="450">
+
+
 ## 🔄 Integration With RoboSense Fusion Project
 
 The LiDAR‑like simulation developed in this project will be integrated into my larger **RoboSense Fusion** system:  
