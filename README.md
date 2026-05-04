@@ -155,7 +155,27 @@ The system produces:
 This allows a stereo camera to act as a **virtual LiDAR**, enabling fusion development without hardware.
 
 ---
+## Citation & Acknowledgement
 
+This repository implements a Mini version of the RAFT algorithm, based on the theoretical concepts described in the original RAFT and RAFT‑Stereo papers (see citation below). I have directly referred to the underlying ideas of RAFT and adapted them to suit the performance constraints of my specific hardware platform.
+
+The project uses stereo disparity estimation inspired by RAFT and applies geometric projection techniques to convert disparity values into LiDAR‑like depth simulations. This enables depth perception and point‑cloud generation without requiring an actual LiDAR sensor.
+```
+@inproceedings{teed2020raft,
+  title={RAFT: Recurrent All-Pairs Field Transforms for Optical Flow},
+  author={Teed, Zachary and Deng, Jia},
+  booktitle={European Conference on Computer Vision (ECCV)},
+  year={2020}
+}
+
+@inproceedings{lipson2021raftstereo,
+  title={RAFT-Stereo: Multilevel Recurrent Field Transforms for Stereo Matching},
+  author={Lipson, Lahav and Teed, Zachary and Deng, Jia},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year={2021}
+}
+
+```
 ## 🧩 Why This Project Matters
 
 This project demonstrates that:
